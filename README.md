@@ -2,7 +2,7 @@
 
 # Question 1
 ## 1.	Implement a flexible array that allows the array to increase when we want to insert a new element while the array is at capacity.
-#### answer 
+#### https://github.com/RooseveltTech/Microosft-ADC-Group-C-Assignment/blob/master/answer1_1.py
 
 ## 2.	Your input is an array of integers, and you must reorder its entries so that the even entries appear first. This is easy if you use 0(n) space, where n is the length of the array. However, you are required to solve it without allocating additional storage. 
 
