@@ -1,9 +1,4 @@
-# list = [6,3,2,7,6,4,9,1]
-# list.append(7)
-# print(list)
-list = [6,3,2,7,6,4,9,1,6]
-# print(length)
-
+# To Sort this array from middle
 def sortArray(arr):
       if len(arr) > 1:
         mid = len(arr)//2
